@@ -1,0 +1,12 @@
+Graded 9/23 by Mark Congdon
+
+Total Score:		25/25
+
+Compiles and Runs:	15/15
+Correct Output:		6/6
+Consistent Style:	2/2
+Efficiency:			2/2
+
+Good work!  Your program is very clean and well-organized.
+
+Great job with your comments, too.  Well done.
